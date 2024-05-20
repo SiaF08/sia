@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+body {
+  background-color: light;
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+</style>
+</head>
+<body>
+
+<div>
+  <h1>Fan site dedicated to Imagine Dragons</h1>
+  <p>Imagine Dragons are an American pop rock band formed in 2008, based in Las Vegas, Nevada, and currently consisting of lead singer Dan Reynolds, guitarist Wayne Sermon, bassist Ben McKee and drummer Daniel Platzman.
+Imagine Dragons have won three American Music Awards, nine Billboard Music Awards, one Grammy Award, one MTV Video Music Award, and one World Music Award.
+In May 2014, the band was nominated for 14 Billboard Music Awards, including Top Artist of the Year and a Milestone Award, which recognizes innovation and creativity of artists across different genres.
+In April 2018, the band was nominated 11 more times for Billboard Music Awards.
+Imagine Dragons have sold more than 74 million albums and 65 million digital songs worldwide, making them one of the world's best-selling music artists.
+  <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
+</div>
+</body>
+</html>
